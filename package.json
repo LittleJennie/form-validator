@@ -1,0 +1,22 @@
+{
+  "name": "form-validator",
+  "version": "1.0.0",
+  "description": "validate form filler inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleJennie/form-validator.git"
+  },
+  "author": "Jennie Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleJennie/form-validator/issues"
+  },
+  "homepage": "https://github.com/LittleJennie/form-validator#readme",
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
